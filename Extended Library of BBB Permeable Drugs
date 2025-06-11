@@ -1,0 +1,13 @@
+This file contains a curated dataset of blood-brain barrier (BBB)-permeable drugs compiled for virtual screening, ^18F labeling feasibility, and ADMET evaluation in the context of Tau-targeted PET imaging.
+| **Column Name**        | **Description**                                                             |
+| ---------------------- | --------------------------------------------------------------------------- |
+| `Product Name`         | Common/trade name or code of the compound                                   |
+| `Synonyms`             | Alternative names, aliases, or code identifiers for the drug                |
+| `M. Wt`                | Molecular weight of the compound (in Daltons)                               |
+| `Target`               | Known biological targets (e.g., CDK, mTOR, apoptosis-related proteins)      |
+| `Pathway`              | Associated signaling pathways (e.g., PI3K/Akt/mTOR, apoptosis, autophagy)   |
+| `Biological Activity`  | Brief summary of known pharmacological or biological effects                |
+| `Formula`              | Molecular formula of the compound                                           |
+| `Research Area`        | Broad therapeutic research category (e.g., Cancer, CNS)                     |
+| `Clinical Information` | Stage of clinical development (e.g., Phase 1, Phase 2, or “No Development”) |
+| `SMILES`               | Canonical SMILES string used for cheminformatics and modeling               |
