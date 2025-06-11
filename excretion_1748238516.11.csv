@@ -1,0 +1,44 @@
+SMILES	MOL_WEIGHT	LOGP	#ROTATABLE_BONDS	#ACCEPTORS	#DONORS	SURFACE_AREA	Total Clearance	Renal OCT2 substrate
+Fc1ccc(cc1)[C@@H]1N(CCO[C@@H]1O[C@H](C)c1cc(cc(c1)C(F)(F)F)C(F)(F)F)CC=1NC(=O)NN=1	534.432	4.9521	6	5	2	204.748	0.344	No
+Clc1ccc(cc1)[C@@H](Nc1ncccc1O)c1ccc2c(nccc2)c1O	377.831	4.8959	4	5	3	160.473	0.022	No
+Clc1ccc(cc1)[C@@H](Nc1ncccc1O)c1ccc2c(nccc2)c1O	377.831	4.8959	4	5	3	160.473	0.022	No
+Fc1cc(Nc2nc3N(CCC(C)C)[C@H](C)C(=O)N(c3cn2)C)cc(F)c1O	391.422	3.4214	5	6	2	161.563	-0.452	No
+Clc1cc(ccc1OC[C@H](O)CO)\C=C\1/S\C(=N\CCC)\N(c2ccccc2C)C/1=O	460.983	4.26732	8	6	2	190.752	0.136	No
+O1c2c(c(O)c(C\C=C(\C)/C)c(O)c2)C(=O)C[C@@H]1c1ccc(O)cc1	340.375	4.0186	3	5	3	145.370	0.106	No
+O(C[C@@H]1N(Cc2c(C1)cccc2)C(=O)c1c2c(ccc1)cccc2)c1ccc(OC(C)(C)C)cc1	465.593	6.6632	5	3	0	206.654	0.168	No
+o1c(nnc1CCC(=O)Nc1cc(C)c(NC(=O)c2nc3n(n2)C(=O)C=2CCCC=2N3)cc1C)-c1ccccc1	538.568	3.39674	7	9	3	227.413	-0.59	No
+O1CCN(CC1)CC#Cc1n(c2ncnc(N)c2c1C(=O)Nc1ccc(cc1)COC)C1(CC1)C	474.565	2.6049	6	8	2	204.164	1.183	No
+O(C(CC)CC)[C@@H]1C=C(C[C@H](N)[C@H]1NC(=O)C)C(O)=O	284.356	0.8069	6	4	3	118.909	0.588	No
+Fc1c2c(ccc1)[C@](N=C2N)(c1cc(ccc1)-c1cncnc1)c1cc(ncc1)C(F)F	431.421	4.6261	4	5	1	181.082	0.55	No
+Clc1cnc(nc1NC)Nc1ccc(cc1OC)C(=O)N1CCOCC1	377.832	2.3963	5	7	2	156.028	0.745	No
+O(CCN1CCN(CC1)C(=O)c1[nH]c2c(c1)cccc2)c1ccc(OC)cc1	379.46	3.0133	6	4	1	164.201	0.816	No
+O1c2c(C(=O)C(O[C@@H]3O[C@H](C(O)=O)[C@@H](O)[C@H](O)[C@H]3O)=C1c1cc(O)c(O)cc1)c(O)cc(O)c2	478.362	-0.4466	4	12	8	188.063	0.749	No
+O1c2c(C(=O)C(O[C@@H]3O[C@H](C(O)=O)[C@@H](O)[C@H](O)[C@H]3O)=C1c1cc(O)c(O)cc1)c(O)cc(O)c2	478.362	-0.4466	4	12	8	188.063	0.749	No
+FC(F)(F)c1cnc(nc1NCc1n[nH]cc1)Nc1cc2CCN(Cc2cc1)C	403.412	3.5621	5	6	3	164.922	0.709	No
+Oc1cc(O)c(cc1C(C)C)C(=O)N1Cc2cc(ccc2C1)CN1CCN(CC1)C	409.53	3.1246	4	5	2	177.886	0.996	No
+S(=O)(=O)(Nc1ccc(F)c(Oc2cc3c(N=CN(C)C3=O)cc2)c1C#N)N1C[C@H](F)CC1	461.45	2.43708	5	7	1	181.208	0.638	No
+O1C=C(C(=O)c2c1cc(O)cc2O)c1ccc(O)cc1	270.24	2.5768	1	5	3	112.519	0.312	No
+Fc1cc(F)ccc1-c1cnc(nc1)N1CCN(CC1)CCCc1c2cc(ccc2[nH]c1)C#N	458.516	4.52958	6	5	1	196.033	0.791	Yes
+Brc1cc(Cl)cc2c1[C@H](c1ncc(Br)cc1CC2)C1CCN(CC1)C(=O)CC1CCN(CC1)C(=O)N	638.832	5.9099	3	3	1	233.751	-0.626	No
+s1c(nc(C)c1C(=O)Nc1ccccc1-c1nc2SC=C(n2c1)CN1CCOCC1)-c1cccnc1	516.652	4.97422	6	9	1	215.794	0.925	Yes
+O=C1N(C)[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)NCC(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H]1Cc1ccccc1	588.666	-1.96573	9	7	8	243.387	-0.45	No
+Fc1cc2onc(c2cc1)C1CCN(CC1)CCCOc1ccc(cc1OC)C(=O)C	426.488	4.8266	8	6	0	180.458	0.993	Yes
+O1C[C@H](Oc2c3c(onc3OCC3CCN(CC3)CC3(O)CCOCC3)ccc2)CC1	432.517	2.6278	7	8	1	181.908	0.922	No
+O1CCn2c(nc3c2nc(nc3N2CCOCC2)-c2cnc(nc2)N)C1(C)C	382.428	0.9674	2	10	1	161.287	0.818	No
+O(CCOC)c1cc2c(ncnc2Nc2cc(ccc2)C#C)cc1OCCOC	393.443	3.4051	10	7	1	169.532	0.606	No
+s1cc(nc1N)/C(=N/OC(C(O)=O)(C)C)/C(=O)N[C@H]1[C@H]2SCC(C[n+]3ccccc3)=C(N2C1=O)C(=O)[O-]	546.587	-1.2992	9	11	3	218.156	0.501	No
+s1cc(nc1N)/C(=N/OC(C(O)=O)(C)C)/C(=O)N[C@H]1[C@H]2SCC(C[n+]3ccccc3)=C(N2C1=O)C(=O)[O-]	546.587	-1.2992	9	11	3	218.156	0.501	No
+O1[C@@H]2C[C@@]3(O[C@H](/C(=C/C(C)C)/C)[C@@H](C)/C(=N/OC)/C3)O[C@H](C\C=C(\C[C@H](\C=C\C=C\3/CO[C@@H]4[C@H](O)C(=C[C@H]([C@]/34O)C1=O)C)C)/C)C2	639.83	5.7289	3	9	2	273.567	0.312	No
+S1[C@H]2N(C(C(O)=O)=C(C1)CSc1nnnn1C)C(=O)[C@H]2NC(=O)[C@H](NC(=O)c1cnc(cc1O)C)c1ccc(O)cc1	612.65	0.32672	9	13	5	245.926	-0.187	No
+O1[C@]2(C[C@@H](O)[C@@H]3C[C@@]2(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@]3(COC(=O)c2ccccc2)C1=O)C	480.466	-1.5149	6	11	5	194.360	0.913	No
+O1[C@H]([C@H](O)[C@@H](O)[C@H](O)[C@H]1CO)c1c2OC=C(C(=O)c2ccc1O)c1ccc(O)cc1	416.382	0.3861	3	9	6	169.199	0.186	No
+O1[C@H]([C@H](O)[C@@H](O)[C@H](O)[C@H]1CO)c1c2OC=C(C(=O)c2ccc1O)c1ccc(O)cc1	416.382	0.3861	3	9	6	169.199	0.186	No
+O1c2c(C(=O)C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)=C1c1cc(O)c(O)cc1)c(O)cc(O)c2	610.521	-1.6871	6	16	10	240.901	0.031	No
+O1c2c(C(=O)C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)=C1c1cc(O)c(O)cc1)c(O)cc(O)c2	610.521	-1.6871	6	16	10	240.901	0.031	No
+O1c2c(C=CC1(C)C)c1OC[C@H](Cc1cc2)c1ccc(O)cc1O	324.376	4.0007	1	4	2	140.522	0.133	No
+O1c2c(C=CC1(C)C)c1OC[C@H](Cc1cc2)c1ccc(O)cc1O	324.376	4.0007	1	4	2	140.522	0.133	No
+O1c2c(c(O)c(O)c(O[C@@H]3O[C@H](CO[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)c2)C(=O)C=C1c1ccccc1	594.522	-2.1259	7	15	9	236.106	0.444	No
+O1c2c(c(O)c(O)c(O[C@@H]3O[C@H](CO[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)c2)C(=O)C=C1c1ccccc1	594.522	-2.1259	7	15	9	236.106	0.444	No
+O=C1N2C(=[N+](c3c1cccc3)C)c1[n-]c3c(c1CC2)cccc3	301.349	2.1595	0	2	0	132.171	0.825	No
+O1c2c(C[C@H](O)[C@H]1c1cc(O)c(O)cc1)c(O)cc(O)c2[C@@H]1c2c(O[C@@H]([C@H]1O)c1cc(O)c(O)cc1)cc(O)cc2O	578.526	2.995	3	12	10	236.950	0.22	No
+O1c2c(C[C@H](O)[C@H]1c1cc(O)c(O)cc1)c(O)cc(O)c2[C@@H]1c2c(O[C@@H]([C@H]1O)c1cc(O)c(O)cc1)cc(O)cc2O	578.526	2.995	3	12	10	236.950	0.22	No
